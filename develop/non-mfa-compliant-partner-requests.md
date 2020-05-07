@@ -13,7 +13,7 @@ Applies to:
 
 - Partner Center API
 
-This topic explains how to obtains a list of all partner requests or a list of recent non MFA compliant partner user requests. 
+This topic explains how to obtain a list of non MFA compliant partner user requests. 
 
 ## Prerequisites
 
